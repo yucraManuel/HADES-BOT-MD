@@ -66,7 +66,7 @@ excesivamente lento (depende del WhatsApp igual)
 
 ## `PORPIETARIO DEL BOT` 
 
-[![Yovanihades1212])](https://github.com/Yovanihades1212/)
+[![Yovanihades1212])file:///storage/emulated/0/Download/108025565.jpeg](https://github.com/Yovanihades1212/)
 
 
 ```bash
