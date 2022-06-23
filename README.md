@@ -72,6 +72,5 @@ excesivamente lento (depende del WhatsApp igual)
 
 
 
-```bash
 `YOVANI___HADES-BOT-MD"` 
 ```
