@@ -64,8 +64,9 @@ excesivamente lento (depende del WhatsApp igual)
 * [Opción 3 - WhatsApp Recomendado](https://www.mediafire.com/file/drcy3rn45buoyr4/%25E2%2598%25A3%25EF%25B8%258F%25F0%2593%2580%25AC%25F0%259D%2597%25A7%25F0%259D%2597%25B6%25F0%259D%2597%25B8%25E2%259C%2587%25F0%259D%2597%25A7%25F0%259D%2597%25BC%25F0%259D%2597%25B8%25F0%2593%2580%25AC.apk/file).
 * [Opción 4 - WhatsApp Recomendado](https://www.mediafire.com/file/pxfksca3yatav5f/%25E0%25A6%2594%25E0%25A7%25A3%25CD%25A1%25CD%259C%25E2%258D%25A3%25E2%2582%25AE%25C9%2584%25C9%258C%25C9%2583%25C3%2598%25E0%25AF%2580%25CD%259C%25E2%2582%25A6%25C6%2597%25E2%2582%25AE%25C9%258C%25C3%2598%25E2%259E%25A3%25E2%259C%25AA_%25E2%25A9%2594-7.apk/file).
 
-## `EDITOR Y PORPIETARIO DEL BOT` 
-[![Yovanihades1212](https://avatars.githubusercontent.com/u/90165013?s=400&u=946f5c00c527c7e6fa2ef5148c6ad56270bb600e&v=4size=100)](https://avatars.githubusercontent.com/u/90165013?s=400&u=cdf7fd989e2a787c9f400545147865615c336002&v=4) 
+
+
+
 ```bash
 `YOVANI___HADES-BOT-MD"` 
 ```
