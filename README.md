@@ -3,7 +3,7 @@
 ## El bot No está terminado 
 
 ### `NECESITAS AYUDA?, CONTACTAME`
-<a href="http://wa.me/5212411347465" target="blank"><img src="https://img.shields.io/badge/YOVANI-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="http://wa.me/5212411719888" target="blank"><img src="https://img.shields.io/badge/YOVANI-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
 
 > NO BOT
